@@ -3,8 +3,8 @@ Wingman is an iOS project written in Objective-C demonstrating Yelp API integrat
 
 ---
 
-![alt text](/preview_01.jpg)
-
-
-
 ![alt text](/preview_02.jpg)
+
+
+
+![alt text](/preview_01.jpg)
